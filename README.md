@@ -7,3 +7,7 @@ All the dark web related links can be viewed from the following Wiki page:
 The above material was presented in the following presentations:
 ### 2025.01.21 - BrightTalk Webinar: Hackers Don't Hack In, They Log In
 + https://www.brighttalk.com/webcast/20631/633157
+
+Upcoming Webinar
+### 2025.05.01 - BrightTalk Webinar: Verizon DBIR 2025 De-mystified - Brutal Truth & Insights
++ https://www.brighttalk.com/webcast/20631/642069
