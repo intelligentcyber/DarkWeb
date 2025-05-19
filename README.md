@@ -10,6 +10,7 @@ All the dark web related links can be viewed from the following Wiki page:
 
 ### 2025.05.01 - BrightTalk Webinar: Verizon DBIR 2025 De-mystified - Brutal Truth & Insights
 + https://www.brighttalk.com/webcast/20631/642069
++ https://youtu.be/2oX3-t1G3tU
 
 # Upcoming Trainings [paid]:
 ### 2025.05.22 - Mastering Cyber Threat Intelligence for SOC Analysts
